@@ -1,0 +1,39 @@
+# Whois Use and Information
+
+## What is the Tiered Access Directory (Gated Whois)?
+The Tiered Access Directory is Tucows' "gated" version of the Whois directory. It allows accredited third parties, such as members of law enforcement, to view the contact data of domain registrants who use our platform.
+
+Up until May 25, 2018, the registration data for all domain names was by default published in the public Whois directory, where it was visible to any party who performed a "Whois lookup" on a domain.
+
+With the advent of the GDPR and other similar privacy laws, however, the public display of this personal data has become problematic. This lead Tucows to the decision to redact real contact data from the public Whois. Alongside this change, we implemented our gated Tiered Access Directory as a means for parties with a legitimate legal interest to access this personal data, while ensuring data is not unnecessarily exposed through display in the public directory.
+
+## Why can't I see real contact information in the public Whois anymore?
+Under the GDPR, personal data may be collected and processed only when there is a legal reason to do so. This means that the public Whois system as it exists today is incompatible with the principles of data privacy that the GDPR affirms.
+
+## How will Whois change?
+Tucows will implement a new "gated Whois" system. Under this new system, the registrant, admin, and technical contact information for registered domains will no longer be visible in the public Whois database.
+
+"Full" Whois data for registered domains will only be accessible to legitimate and accredited third-parties, such as law enforcement, members of the security community, and intellectual property lawyers, through the gated Whois. This "full" Whois data will be limited to those personal data elements that we have obtained permission to process, either via contract or via consent of the data subject.
+
+This switch to a gated Whois is being made in an effort to reconcile our GDPR-imposed restrictions with our ongoing obligations as an accredited registrar. As of May 25, 2018, registrant information—name, organization, address, phone number, and email—will be considered personal data that can no longer be published in the public Whois. However, we feel authenticated access to this information, in a specific and limited manner, must be provided to those with legitimate reasons to request it. A gated Whois system will allow for this, while also ensuring that private information remains guarded from the general public.
+
+## Is it possible to opt-in to the display of real data in the public Whois?
+Yes. If you own a domain registered through Tucows and would like to have your contact information displayed in the public Whois, please contact your Domain Provider at https://tucowsdomains.com/provider-search/. They can enable this option for you.
+
+## Update the Whois contact information associated with my domain
+To update any Whois contact information, including email addresses, contact your Domain Provider at https://tucowsdomains.com/provider-search/. They'll be able to best help you.
+
+## Tucows Subpoena and Warrant Policy for Whois Information
+Tucows Privacy Policy prohibits the release of registrant information without express permission from the registrant except under limited circumstances such as when necessary to comply with ICANN's Whois publication requirements or when required to comply with law or legal process properly served on Tucows or one of its affiliates.
+
+### Valid Subpoenas
+If you seek the registrant information of a Tucows registrant in connection with a civil legal matter, please attach the valid subpoena at https://tucowsdomains.com/criminal-or-civil-subpoena/. Valid subpoenas are those issued by:
+- Any Canadian federal, provincial, or municipal court
+- Any Danish County or High Court
+- Any German federal or local court
+- Any U.S. federal, state, or county court
+
+Tucows will not respond to subpoenas or analogous discovery mechanisms issued by any other jurisdiction unless they are domesticated into one of the above-listed jurisdictions.
+
+### Warrants
+If you seek the registrant information of a Tucows registrant in connection with a criminal matter, please attach the valid warrant at https://tucowsdomains.com/warrants/. Valid warrants are those valid and issued in any Canadian, Danish, German, or U.S. jurisdiction. Tucows will not respond to warrants issued by any other jurisdiction unless they are domesticated into one of the above-listed jurisdictions.

@@ -1,0 +1,61 @@
+# GDPR and Data Privacy
+
+## What is the GDPR?
+The European Union's General Data Protection Regulation (GDPR) lays out a new set of rules for how the personal data of people living within the European Union should be handled. That being said, it embodies some really great principles and concepts that we believe in here at Tucows, and we want to pass these protections and rights on to all registrants, regardless of where they happen to live.
+
+Though it can be fairly complex and far-reaching, at a high level, the GDPR can be broken down into three main concepts:
+1. Consent and control
+2. Transparency
+3. The right to be forgotten
+
+## Consent and Control
+This can be brought down to the very simple idea that your personal information belongs to you and only you can decide where it gets used. In order to work with any of your data, we have to let you know what we need your information for and have a legal reason to use it. We have an obligation to only collect the minimum amount of information that we need to get the job done, and we can't use the information we've already gathered for something else without asking you if that's ok.
+
+## Transparency
+Transparency means that in the event of a security breach where your personal data may have been exposed, we have to let you know as soon as possible that it's happened and tell you what happened, what we're doing to fix it and what you should do protect yourself. This type of information empowers each person to respond in the way they think is best in each circumstance in order to protect their own privacy. The security of your personal data is our priority, and this is a part of the GDPR that we hope will never come into play.
+
+## The Right to be Forgotten
+This is one of the most powerful tools that the GDPR gives people – a means to a fresh start. It gives you the ability to revoke your consent provider for a service to store and process your personal information. When a person invokes this right, Tucows will have to essentially erase all record of the individual from our system.
+
+This requirement is not without consequences or limitations: some services can't be provided without personal information, and sometimes personal information has to be kept for reasons of public interest or relating to legal claims.
+
+This right to erasure applies only to data that's used because we have consent, and does not apply to data that's used because it's required as part of fulfilling a contract. Data processed as part of fulfilling our service contract will be kept for the lifetime of the service, plus up to 7 years after the service's termination.
+
+Article 17 of the GDPR outlines the data subject's right to erasure, also known as the right to be forgotten. It gives each person the right to request that a controller, such as Tucows, erase their personal data. It also requires us to comply with any such request "without undue delay" as long as one of six specific legal grounds applies.
+
+Exceptions where the right to erasure does not apply include instances when processing of data is necessary for:
+- Exercising the right of freedom of expression and information
+- Compliance with a legal obligation
+- The establishment, exercise or defense of legal claims
+
+## I'm not in the EU, why do I have to care about the GDPR?
+While the rules outlined in GDPR apply only to EU-local individuals, changes to how data is collected and handled will happen on a global scale as companies modify their existing practices to ensure they are compliant with these new regulations. While we will try our best to minimize any disruption to our domain management and registration processes for registrants, Tucows believes in the principles that the GDPR upholds, and we, along with other key players in our industry, feel that extending the benefits of the GDPR to registrants worldwide is simply the right thing to do.
+
+What it means is that all these regulations around protecting personal information can't just be afterthoughts, they need to be part of the system that's on unless you turn it off. We'll be empowering registrants to understand what information we hold and how it's used, to give consent to us for that use, and to request erasure of data in cases where consent cannot be provided.
+
+## What is considered personal data?
+Personal data is any information that relates to an identified or identifiable living individual. Different pieces of information, which collected together can lead to the identification of a particular person, also constitute personal data. Personal data that has been de-identified, encrypted or pseudonymised but can be used to re-identify a person remains personal data and falls within the scope of the law.
+
+Examples of personal data:
+- Name, surname, address, email address, IP, personal ID, cookie ID
+- firstname.lastname@company.com
+
+These are NOT considered personal data:
+- info@company.com
+- Company name
+- Legal entities
+
+## If my service is canceled because I withdrew consent, will I receive a refund?
+Please contact your domain service provider at https://tucowsdomains.com/provider-search/ to inquire about their refund policies surrounding service cancellation.
+
+## Data Use Consent Request
+### Does the data use consent request timeout?
+Yes, though this only poses an issue for registrants of asynchronous services. Ten days following the initial consent request, your consent status will default to "non-consent" if we haven't received a response, and the order will be placed on hold and ultimately canceled.
+
+Synchronous services will be unaffected by this, as Tucows will continue to use placeholders for any data elements that we process until consent is given. Pending orders for asynchronous services, however, will be canceled at this 10-day mark if we haven't yet received a response from the registrant.
+
+### Who receives the data use consent request?
+The consent request will be sent to the registrant email address that Tucows has on file for the domain or service.
+
+### Can the consent request be sent to any other email on my account, like the domain admin, billing, or tech contacts?
+No, these requests will only be sent to the registrant's email address. Sending a consent request to an email address other than the owner would not be considered GDPR compliant. For legal reasons, Tucows will no longer process admin, billing, or technical contact information, except in cases where the registry specifically requires these contact points, and whenever possible, we will replace these fields with placeholder data.

@@ -1,0 +1,18 @@
+# Buy a Domain
+
+## Purchase a domain
+Tucows does not sell directly to customers, as we operate under a wholesale model. You can buy a domain through one of our affiliated Domain Providers, or our in-house provider, Hover at http://www.hover.com/
+
+## Purchase a domain that is already registered with Tucows
+You'll want to contact the owner directly. A Whois search at https://tucowsdomains.com/whois-search/ can provide this information.
+
+If the results of a Whois search do not provide the owner's contact details, you can submit a request to contact the owner at https://contactprivacy.com/
+
+If the owner wishes to sell the domain, the sale and transfer will most likely be handled by their Domain Provider at https://tucowsdomains.com/provider-search/
+
+## Domain Names Explained
+Domain names are a fundamental part of Internet infrastructure that enable us to easily access websites, email servers, and other content. Without domain names, to access a website, you'd have to memorize the IP address where it lives (can you imagine?). With domain names, you just get to type in a memorable string of characters (much easier).
+
+For example, our primary domain name, tucows.com, directs you to our corporate website and is used for all of our employee email addresses—which all end in "@tucows.com." The company you work for probably has a similar setup.
+
+In short—domain names point to where websites live.

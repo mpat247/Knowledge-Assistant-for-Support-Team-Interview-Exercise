@@ -1,0 +1,77 @@
+# Legal Submissions
+
+## Tucows, Inc. Subpoena and Warrant Policy
+Tucows Privacy Policy prohibits the release of registrant information without express permission from the registrant except under limited circumstances such as when necessary to comply with ICANN's Whois publication requirements or when required to comply with law or legal process properly served on Tucows or one of its affiliates.
+
+### Valid Subpoenas
+If you seek the registrant information of a Tucows registrant in connection with a civil legal matter, please attach the valid subpoena at https://tucowsdomains.com/criminal-or-civil-subpoena/
+
+Valid subpoenas are those issued by:
+- Any Canadian federal, provincial, or municipal court
+- Any Danish County or High Court
+- Any German federal or local court
+- Any U.S. federal, state, or county court
+
+Tucows will not respond to subpoenas or analogous discovery mechanisms issued by any other jurisdiction unless they are domesticated into one of the above-listed jurisdictions.
+
+### Warrants
+If you seek the registrant information of a Tucows registrant in connection with a criminal matter, please attach the valid warrant at https://tucowsdomains.com/warrants/
+
+Valid warrants are those valid and issued in any Canadian, Danish, German, or U.S. jurisdiction. Tucows will not respond to warrants issued by any other jurisdiction unless they are domesticated into one of the above-listed jurisdictions.
+
+### Background Documentation
+Tucows reserves the right to request a copy of the complaint and any supporting documentation that demonstrates how the Tucows customer information is related to the pending litigation and the underlying subpoena.
+
+### Notice to Customer and Response Time
+Upon the receipt of a valid civil subpoena issued by an appropriate court, Tucows may promptly notify the customer whose information is sought. If the circumstances do not amount to an emergency, Tucows may not immediately produce the customer information sought by the subpoena and may provide the customer with the opportunity, within the response time provided in the subpoena, to move to challenge the subpoena in court.
+
+### Fees for Subpoena/Warrant Response
+Tucows may charge for costs associated with responding to subpoenas and/or warrants. An invoice will be included in our response and is payable within thirty (30) days. Cheques should be made out to "Tucows Inc."
+
+Tucows subpoena compliance costs are as follows:
+- Research – $150.00/hour
+- Federal Express – Cost as Billed
+- Copies – $.25/page
+
+### Policy Regarding E-mail or Other Electronic Communications
+Except as required by a valid court order, Tucows will not produce the content of email or other electronic communications.
+
+### Reservation of Rights
+Notwithstanding any of the above, Tucows reserves the right to challenge the validity of any subpoena or otherwise move to quash or take such other action to secure an order from the relevant court that Tucows is not required to respond to the subpoena.
+
+### Modification of Policy
+Tucows reserves the right to modify this policy at any time in its sole discretion.
+
+## Submitting Court and Legal Documents to Tucows Inc.
+- UDRP Complaint submission: https://tucowsdomains.com/udrp/
+- Court Documents submission: https://tucowsdomains.com/court-order/
+
+### Do I need to name Tucows in the legal action I file?
+No. It is not necessary to name Tucows in a legal dispute regarding a domain name registered at Tucows. Tucows will comply with any Order issued by a court of competent jurisdiction regarding the final disposition of the domain name at issue.
+
+### Is it necessary to name Contact Privacy Inc in a legal action?
+No. It is not necessary to name Contact Privacy Inc. in a legal dispute. Contact Privacy Inc. is a private registration service and has no control over the domain name or any associated website content. Like Tucows, Contact Privacy Inc. will comply with any Order issued by a court of competent jurisdiction.
+
+### What should be included in court orders sent to Tucows?
+Court orders should be as specific as possible, but at a minimum, must include:
+- The affected domain name(s)
+- The specific action that Tucows or the "registrar of record" is being requested to take regarding the domain name
+- If plaintiff is seeking control of a registrant's domain name, the court order must specify the name of the domain name(s)
+
+### Can non-Canadian-based court documents be submitted?
+Yes. Tucows will accept court documents from Canada, Denmark, Germany, and the U.S.A.
+
+If the documents are not in English, French, German, or Danish, we require the following:
+- Original court-stamped copy, and
+- A certified English translation of the court-stamped copy
+
+### Additional requirements for Settlement Agreements
+In order for Tucows to implement terms associated with a settlement agreement, the settlement agreement must:
+- Have notarized signatures from both parties
+- Specify the affected domain name(s)
+- Include a statement that the litigation will be dismissed
+
+### Additional requirements for Receiverships
+All receivership orders must:
+- Explicitly list the domain name(s) that are to be moved separately from other assets
+- State that the Receiver is to manage and/or sell the domain name(s)

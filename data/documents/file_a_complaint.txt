@@ -1,0 +1,31 @@
+# File a Complaint
+
+## Report inaccurate Whois info
+Please submit your Whois inaccuracy complaint via ICANN's form at https://forms.icann.org/en/resources/compliance/complaints/whois/inaccuracy-form
+
+## Report Illegal or malicious activity or content
+Thanks for helping to make the internet safer.
+
+Our Compliance Team will respond to all requests, but please note that we have no control over website content on Tucows domains. This would fall to the hosting provider. Often the Domain Provider is also the hosting provider, so they are a good first point of contact for content-related issues. You can also attempt to contact the domain owner directly. You can try to find this information through a Whois lookup at https://tucowsdomains.com/whois-search/
+
+To contact compliance, please submit a request at https://tucowsdomains.com/abuse-form/
+
+## Submit a complaint against my Domain Provider
+To file a complaint against a Tucows Reseller, you can contact our Compliance team at https://tucowsdomains.com/compliance-form/. They respond to all requests and will mitigate issues that fall within their scope.
+
+We only intervene when a Domain Provider violates ICANN policies. This includes situations where a Domain Provider:
+- Goes out of business
+- Is continually unresponsive
+- Fails to provide you with access to your account for domain management
+
+If you're simply unhappy with the service provided, you always have the option to transfer your domain. We recommend Hover at https://www.hover.com/
+
+## DNS Abuse Reporting
+DNS Abuse is an increasingly prevalent issue. As advocates for a better Internet, we believe there is a fundamental need for the industry to come together to create a unified approach to handle it. Right now, some registrars, registries, and hosting providers take action on illegal activity, but others do not, and they become a breeding ground for it.
+
+To report abuse, visit https://tucowsdomains.com/report-abuse/
+
+## Understanding Website Content Issues
+To understand how website content is accessed, you must understand what domain names are and how they work. Domain names are a fundamental part of Internet infrastructure that enable us to easily access websites, email servers, and other content.
+
+Important: Tucows is a domain registrar - we do not host websites. Website content issues should be directed to the hosting provider, not the domain registrar.

@@ -1,0 +1,53 @@
+# Domain Management
+
+## My domain or website is not working
+There are a number of possible reasons for this. The fastest way to determine and resolve the issue is to contact your Domain Provider at https://tucowsdomains.com/provider-search/
+
+If you use a separate provider to host your website, it may be an issue on their end.
+
+If the issue is ongoing, and you are unhappy with your service, you might consider transferring your domain. We recommend Hover at https://hover.com/
+
+## I am being directed to a "Manage your Domain" page
+This management tool is offered by your Domain Provider. To access it, you will need to contact them at https://tucowsdomains.com/provider-search/. Tucows does not have your account info, nor any means of verifying your identity to grant you access to your account.
+
+To reset your password, contact your Domain Provider. The fastest way to regain access to your account is to speak with them directly.
+
+## The password to manage my domain is not working
+To reset your password, contact your Domain Provider at https://tucowsdomains.com/provider-search/. The fastest way to regain access to your account is to speak with them directly.
+
+## Update the Whois contact information associated with my domain
+To update any Whois contact information, including email addresses, contact your Domain Provider at https://tucowsdomains.com/provider-search/. They'll be able to best help you.
+
+## Change my DNS nameservers
+To update your DNS servers, contact your Domain Provider at https://tucowsdomains.com/provider-search/. They'll be able to best help you.
+
+## My domain status is "Redemption Period" or "Pending Delete Restorable"
+This means the domain has expired and has now entered a redemption period. If you want to redeem the domain, you should contact your Domain Provider at https://tucowsdomains.com/provider-search/ as soon as possible.
+
+In most cases, the domain is held in this state for approximately 30 days, though the length of this redemption period varies among registries.
+
+Please note: The domain can only be redeemed by the current owner.
+
+If you are looking to buy a domain that is currently being held in this state, your Domain Provider can tell you when the domain will become available for purchase.
+
+## My Domain Provider referred me to you
+We're happy to help. If your Domain Provider is unable to resolve your issue, please submit a request to our Compliance team at https://tucowsdomains.com/compliance-form/
+
+In cases where the Domain Provider failed to offer support for a technical issue, you may want to transfer your domain to another Domain Provider. We recommend Hover at https://www.hover.com/
+
+## I received an email from OpenSRS regarding my domain name
+If you received an email from OpenSRS, it means that your Domain Provider uses our platform or messaging service. We don't have access to the content of these messages and can't provide support for the domain.
+
+You should contact your Domain Provider at https://tucowsdomains.com/provider-search/ for more information on what to do next.
+
+## My Domain Provider is unreachable
+If you can no longer contact your Domain Provider, or they are not providing the support you need, we're here to help.
+
+Tucows can only intervene when a Domain Provider violates ICANN policies. This includes situations where a Domain Provider goes out of business, is continually unresponsive, or fails to provide you with access to your account for domain management.
+
+Please note, if you haven't already done so, it's in your best interest to reach out to your Domain Provider before you contact us regarding any issue. Because they maintain your account, they can often provide the fastest solution.
+
+If your domain provider falls into one the cases above and is permanently unreachable, please contact our Compliance team at https://tucowsdomains.com/compliance-form/ so we can follow up.
+
+## Is it possible to opt-in to the display of real data in the public Whois?
+Yes. If you own a domain registered through Tucows and would like to have your contact information displayed in the public Whois, please contact your Domain Provider at https://tucowsdomains.com/provider-search/. They can enable this option for you.

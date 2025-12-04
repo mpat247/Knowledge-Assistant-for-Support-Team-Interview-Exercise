@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  knowledge-assistant:
+    build:
+      context: .
+      dockerfile: DockerFile
+    ports:
+      - "8000:8000"
+    environment:
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+      - OLLAMA_MODEL=llama3.2:3b
+      - EMBEDDING_MODEL=all-MiniLM-L6-v2
+      - TOP_K_RESULTS=3
+      - CHUNK_SIZE=500
+      - CHUNK_OVERLAP=50
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+    extra_hosts:
+      - "host.docker.internal:host-gateway"

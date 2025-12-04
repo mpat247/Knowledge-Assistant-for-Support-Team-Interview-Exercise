@@ -1,0 +1,73 @@
+# Legal Policies
+
+## Generic Top-Level Domain (gTLD) Policies
+Please see Exhibit A of our Registration Agreement at https://opensrs.com/wp-content/uploads/Tucows_ExhibitA.html for the full terms and conditions to which Registrants of gTLDs are bound. This document includes links to additional registry policies specific to particular TLDs.
+
+To better understand your rights and responsibilities as a registrant or domain owner, please review the relevant ICANN Policies.
+
+## ICANN Policies
+The Internet Corporation for Assigned Names and Numbers (ICANN) is an internationally organized, non-profit corporation. They coordinate the management of all technical elements of the Domain Name System to ensure that users of the Internet can find all valid addresses.
+
+The full scope of their responsibilities includes:
+1. Internet Protocol (IP) address space allocation
+2. Protocol identifier assignment
+3. Generic (gTLD) Top-Level Domain management (.com, .org etc.)
+4. Country code (ccTLD) Top-Level Domain management (.ca, .us, .cn etc.)
+5. Management of root server system functions
+
+They also delineate the responsibilities of Registrants, Registrars, Registries, and Resellers (Domain Providers).
+
+For more information, visit https://www.icann.org/
+
+## Key ICANN Policies & Resources
+
+### Expired Registration Recovery Policy
+Sets the timeline and process guidelines for domain name expirations and redemptions, outlining the related responsibilities of Registries and Registrars, and providing requirements as to how and when Registrants are notified.
+More info: https://www.icann.org/resources/pages/errp-2013-02-28-en
+
+### Registrant's Benefits and Responsibilities
+Provides complete and detailed information about your rights and responsibilities as a domain name owner, and explains the relationship between ICANN and Domain Registrars.
+More info: https://www.icann.org/resources/pages/benefits-2013-09-16-en
+
+### Registrant Educational Materials
+Informative video tutorials to familiarize you with the basics of domain ownership. These tutorials offer "plain language" summaries of terms related to Registrant Rights and Responsibilities as set out in the Registrar Accreditation Agreement (RAA).
+More info: https://www.icann.org/resources/pages/educational-2012-02-25-en
+
+### Whois Data Reminder Policy (WDRP)
+This policy is enforced by ICANN, and requires all Registrars to annually present each Registrant with the current Whois information associated with the Registrant's domain(s).
+
+This information is sent to the Registrant in a WDRP message, via email. The message will contain a link to a page where the Registrant may update their Whois information, should they need to do so. If the Whois information is still up-to-date and complete, no action is required on the part of the Registrant. A lack of response on the part of Registrant is assumed to mean that the Whois info presented was accurate.
+
+Tucows sends a WDRP message to each Registrant 120 days before their domain's expiry date. For domains that are registered for multiple years, this information is sent via email, 120 days before the anniversary of the domain's initial registration date.
+
+## Country Code Top-Level Domain (ccTLD) Policies
+Each country code TLD (ccTLD) is operated by an independent Registry that sets policies to govern the registration and use of that particular ccTLD. Consequently, each ccTLD is governed by a unique set of policies.
+
+Please see Exhibit A of our Registration Agreement for the full terms and conditions to which Registrants are bound. The Registrant is responsible for monitoring the Registry's site on a regular basis. If you do not wish to be bound by a revision or modification to any Registry policy, your sole remedy is to cancel your domain name registration. The cancellation process differs between Registries.
+
+### ccTLD Registry Policy Pages:
+- .AU: https://www.auda.org.au/policies/
+- .AT: https://www.nic.at/en/service/legal-information/terms-conditions/
+- .BE: https://www.dnsbelgium.be/en/domain-name/legal
+- .BR: https://registro.br/ajuda.html?secao=novosDominios
+- .CA: CIRA Domain Name Dispute Resolution Policy, Registrant Agreement
+- .CC: https://www.verisign.com/en_US/channel-resources/become-a-registrar/verisign-domain-registrar/domain-registration/index.xhtml
+- .CO: https://www.cointernet.com.co/politicas-y-procedimientos/
+- .CN: http://cnnic.com.cn/IS/CNym/cnzcfg/
+- .DE: Domain Terms and Conditions, Domain guidelines at https://www.denic.de/en/
+- .DK: https://www.dk-hostmaster.dk/en/legal
+- .ES: http://www.dominios.es/dominios/es/todo-lo-que-necesitas-saber/sobre-registros-de-dominios/terminos-y-condiciones
+- .EU: https://eurid.eu/en/register-a-eu-domain/rules-for-eu-domains/
+- .FR: http://www.afnic.fr/en/resources/reference/registry-policies/
+- .IO: http://www.nic.io/policy.html
+- .IT: Assignment and management of domain names in the ccTLD .it
+- .IN: https://registry.in/Policies
+- .ME: https://domain.me/policies/
+- .MX: https://www.akky.mx/jsf/static_content/services_politics.jsf
+- .NL: https://www.sidn.nl/a/about-sidn/general-terms-and-conditions
+- .NZ: https://www.dnc.org.nz/the-commission/policies
+- .PL: https://www.dns.pl/english/technical_cond20151201.html
+- .TV: https://www.verisign.com/en_US/channel-resources/become-a-registrar/verisign-domain-registrar/domain-registration/index.xhtml
+- .UK: https://www.nominet.uk/resources/policy/policies-rules/#registrationterms
+- .US: http://www.about.us/policies
+- .ZA: http://www.zadna.org.za/content/page/policies

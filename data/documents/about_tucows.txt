@@ -1,0 +1,44 @@
+# About Tucows
+
+## Who is Tucows?
+Tucows is a publicly traded provider of network access, domain names, and other Internet services, headquartered in Toronto, Canada. We have been a recognized leader in the industry since 1994 and ICANN-accredited since 1999. Tucows actively participates in Internet governance and in shaping Internet policy to ensure that the focus remains on making the Internet better and more effective for all users.
+
+Tucows is the world's largest wholesale domain registrar. Registrars are companies you can register domain names with. This makes us a key player in maintaining the health, neutrality, and openness of an important but largely invisible part of the Internet: the domain name system (DNS).
+
+Our brands OpenSRS, Enom, and Ascio manage a combined 29 million domain names and millions of value-added services through a global reseller network of over 40,000 web hosts and ISPs.
+
+## Company Information
+David Woroch, President and Chief Executive Officer
+96 Mowat Ave.
+Toronto, ON Canada M6K 3M1
+(416) 535-0123
+
+Ivan Ivanov, Chief Financial Officer and Corporate Secretary
+96 Mowat Ave.
+Toronto, ON Canada M6K 3M1
+(416) 535-0123
+
+## How do you pronounce Tucows?
+It's pronounced "two cows". It's weird… we know.
+
+## Tucows is my registrar. Can you help me?
+If Tucows is listed as your Registrar, your Domain Provider is one of the many Resellers that use our platform to sell domains to customers like you. If you are having an issue with your domain, your Domain Provider is responsible for providing you with support.
+
+Don't know who your Domain Provider is? Use the Provider Search at https://tucowsdomains.com/provider-search/
+
+If your Domain Provider is unreachable, contact Tucows Compliance team.
+
+## I contacted Tucows compliance – when will I hear back?
+We know domain-related issues can be stressful. We will respond to your request within 3-5 business days. Our compliance team replies to all requests in priority sequence.
+
+If you have not already contacted your Domain Provider, we recommend doing so. It's the fastest way to resolve any issues pertaining to your domain.
+
+## Is there a support line for Tucows?
+Because Tucows does not sell domains directly to the public, we do not have a domain support line. Your Domain Provider is your primary contact for any technical issues related to your domain.
+
+If you wish to report domain abuse, please submit a request at https://tucowsdomains.com/abuse-form/. Issues of abuse are highly sensitive in nature and therefore require documentation.
+
+## Why was I directed here from another site?
+Chances are, the web address you are trying to reach is a Tucows domain. It may be that the site is down, or that the domain has expired.
+
+If you own the domain, you should contact your Domain Provider.

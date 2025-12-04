@@ -1,1 +1,10 @@
 .env
+venv
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# data/vector_store
+
+.history

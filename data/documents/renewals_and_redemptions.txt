@@ -1,0 +1,32 @@
+# Renewals and Redemptions
+
+## Tucows Domain Promise: 40-Day Domain Name Rescue
+Didn't receive your domain name renewal emails? Don't worry. Couldn't renew your name by the expiry date because of some circumstance beyond your control? Don't worry. Just plain forgot to renew your domain name? Don't worry. You can get your domain back online. In many cases, depending on the domain extension and registry policies, even if it's been expired for more than a month, you just pay the regular renewal fee.
+
+## My domain status is "Redemption Period" or "Pending Delete Restorable"
+This means the domain has expired and has now entered a redemption period. If you want to redeem the domain, you should contact your Domain Provider at https://tucowsdomains.com/provider-search/ as soon as possible.
+
+In most cases, the domain is held in this state for approximately 30 days, though the length of this redemption period varies among registries.
+
+Important notes:
+- The domain can only be redeemed by the current owner.
+- If you are looking to buy a domain that is currently being held in this state, your Domain Provider can tell you when the domain will become available for purchase.
+
+## Expired Registration Recovery Policy (ICANN)
+Sets the timeline and process guidelines for domain name expirations and redemptions, outlining the related responsibilities of Registries and Registrars, and providing requirements as to how and when Registrants are notified.
+
+More information: https://www.icann.org/resources/pages/errp-2013-02-28-en
+
+## Whois Data Reminder Policy (WDRP)
+This policy is enforced by ICANN, and requires all Registrars to annually present each Registrant with the current Whois information associated with the Registrant's domain(s).
+
+This information is sent to the Registrant in a WDRP message, via email. The message will contain a link to a page where the Registrant may update their Whois information, should they need to do so. If the Whois information is still up-to-date and complete, no action is required on the part of the Registrant. A lack of response on the part of Registrant is assumed to mean that the Whois info presented was accurate.
+
+Tucows sends a WDRP messages to each Registrant 120 days before their domain's expiry date. For domains that are registered for multiple years, this information is sent via email, 120 days before the anniversary of the domain's initial registration date.
+
+## My domain or website is not working
+There are a number of possible reasons for this. The fastest way to determine and resolve the issue is to contact your Domain Provider at https://tucowsdomains.com/provider-search/
+
+If you use a separate provider to host your website, it may be an issue on their end.
+
+If the issue is ongoing, and you are unhappy with your service, you might consider transferring your domain. We recommend Hover at https://hover.com/

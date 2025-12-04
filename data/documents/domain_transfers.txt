@@ -1,0 +1,60 @@
+# Domain Transfers
+
+## How to Transfer Your Domain
+To transfer your domain, you'll want to follow these three steps:
+
+### Step 1
+Log in to your account or contact your current Domain Provider at https://tucowsdomains.com/provider-search/ to do the following:
+1. Obtain your Auth code (EPP code)
+2. Unlock your domain
+3. Disable domain privacy or Whois privacy
+4. Verify that you have access to the admin email address associated with the domain
+
+### Step 2
+Contact your new Domain Provider and have them initiate the transfer. Make sure you have your Auth code handy, in case they require it.
+
+### Step 3
+Next, you must provide confirmation of the transfer. As soon as the transfer is in progress you will receive an authorization email from your new Domain Provider. When you receive this email, you must enter the auth code.
+
+Sometimes your old Domain Provider will send a confirmation email. If they do, simply follow the steps outlined in the email to confirm the transfer.
+
+## Important Notes About Transfers
+- Transfers can take up to 7 days.
+- You cannot transfer a domain that has existed for less than 60 days, with the exception of certain ccTLDs.
+- The transfer process is automated and can take up to 7 days to complete. That said, we do our part to make the process as quick as possible.
+- If you are transferring your domain away from Tucows, we send a courtesy confirmation email, allowing you to grant permission for us to release the domain sooner.
+- If you are transferring your domain to Tucows via one of our affiliated Domain Providers, we initiate the transfer upon your request. It's then up to your old registrar to release the domain.
+
+## Get my EPP/Auth Code
+The fastest way to obtain your auth code, or EPP code, is to contact your Domain Provider at https://tucowsdomains.com/provider-search/, the company from which you purchased your domain. They will be able to verify this information quickly and securely.
+
+## Transfer of Ownership, Change of Registrant and Domain Trades
+The transfer of domain ownership from one individual or organization to another is governed by ICANN's Inter-Registrar Transfer Policy. The process is sometimes also referred to as a change of Registrant or domain trade.
+
+Transferring ownership of a domain is accomplished by updating the owner contact information in Whois. Under the current ICANN policy, both the old Registrant and new Registrant must approve modifications to this information.
+
+A confirmation email is sent to both the old Registrant email and the new Registrant email. Each party must follow the link provided to a confirmation page, where they grant approval of the transfer.
+
+## Updates to Whois Contact Information
+ICANN has determined that Registrants are unique and identifiable by their specific combination of:
+- First Name
+- Last Name
+- Organization Name
+- Email Address
+
+This means that a minor change to any of the above-mentioned fields in the owner contact information will, legally speaking, initiate a change of ownership. Both the old and new Registrant will have to approve of this change.
+
+Example:
+Old Registrant Information:
+- First Name: John
+- Last Name: Doe
+- Organization Name: Amazing Business Inc.
+- Email: john.doe@typicalemail.com
+
+New Registrant Information:
+- First Name: John
+- Last Name: Doe
+- Organization Name: Associates & Associates
+- Email: john.doe@typicalemail.com
+
+In this example, john.doe@typicalemail.com would receive two emails, both of which must be approved in order for the transfer of ownership to take place.

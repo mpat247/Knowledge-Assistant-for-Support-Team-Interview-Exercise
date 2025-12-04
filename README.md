@@ -1,79 +1,193 @@
-# 🧠 AI Coding Challenge: Knowledge Assistant for Support Team
+# Knowledge Assistant for Support Team
 
-Welcome to the AI engineering challenge! This is part of the interview process for the AI Engineer role (1–3 years experience). The goal is to design a minimal **LLM-powered RAG system** that helps a support team respond to customer tickets efficiently using relevant documentation.
+An LLM-powered RAG (Retrieval-Augmented Generation) system that helps support teams respond to customer tickets using relevant Tucows documentation.
 
----
+## Overview
 
-## 📌 Problem Statement
+This application processes customer support tickets and returns structured, MCP-compliant JSON responses with:
+- An AI-generated answer based on relevant documentation
+- References to source documents used
+- Recommended actions for the support team
 
-You will build a **Knowledge Assistant** that can analyze customer support queries and return structured, relevant, and helpful responses. The assistant should use a **Retrieval-Augmented Generation (RAG)** pipeline powered by an **LLM** and follow the **Model Context Protocol (MCP)** to produce structured output.
+### Example
 
-### 🎯 Sample Input (Support Ticket):
-```
-My domain was suspended and I didn’t get any notice. How can I reactivate it?
-```
-### ✅ Expected Output (MCP-compliant JSON):
+**Input:**
 ```json
 {
-  "answer": "Your domain may have been suspended due to a violation of policy or missing WHOIS information. Please update your WHOIS details and contact support.",
-  "references": ["Policy: Domain Suspension Guidelines, Section 4.2"],
-  "action_required": "escalate_to_abuse_team"
+  "ticket_text": "My domain was suspended and I didn't get any notice. How can I reactivate it?"
 }
 ```
 
-## 🔧 Requirements
-### 1.  RAG Pipeline
-- Embed sample support docs and policy FAQs (provided or synthetic).
-- Use a vector database (e.g., FAISS, Qdrant, etc.) to retrieve context based on the query.
+**Output:**
+```json
+{
+  "answer": "Unfortunately, your domain has expired and is currently in the Redemption Period state. You should contact your Domain Provider at https://tucowsdomains.com/provider-search/ to initiate the redemption process and potentially reactivate your domain.",
+  "references": ["about_tucows", "renewals_and_redemptions"],
+  "action_required": "contact_domain_provider"
+}
+```
 
-### 2.  LLM Integration
-- Use a language model (e.g., OpenAI GPT, LLaMA2 via Ollama, Mistral, etc.)
-- Inject context and query into the prompt to generate the final answer.
+---
 
-### 3.  MCP (Model Context Protocol)
-- Prompt should have clearly defined role, context, task, and output schema.
-- Output must be valid JSON in the following format:
-  ```json
-  {
-    "answer": "...",
-    "references": [...],
-    "action_required": "..."
-  }
-  ```
-### 4.  API Endpoint
-- Expose a single endpoint: POST /resolve-ticket
-- Input: { "ticket_text": "..." }
-- Output: structured JSON response as shown above
+## Architecture
 
-## 📂 Suggested Tech Stack (Use what you're comfortable with)
-- Languages: Python or Go
-- Embedding Models: Sentence Transformers / OpenAI / HuggingFace
-- Vector Store: FAISS, Qdrant, Weaviate, etc.
-- LLMs: OpenAI, Ollama, Local LLM, or APIs
-- API: FastAPI (Python), Gin/Fiber (Go)
-- Docker Compose
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    Knowledge Assistant                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│   ┌──────────┐    ┌──────────────┐    ┌──────────────┐      │
+│   │ FastAPI  │───▶│ RAG Pipeline │───▶│ LLM (Ollama) │      │
+│   │   API    │    │   (FAISS)    │    │              │      │
+│   └──────────┘    └──────────────┘    └──────────────┘      │
+│                          │                                   │
+│                          ▼                                   │
+│                   ┌──────────────┐                          │
+│                   │ Vector Store │                          │
+│                   │   (FAISS)    │                          │
+│                   └──────────────┘                          │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
 
-## 📝 Scoring Criteria (Total: 100 Points)
+### Components
 
-| Criteria                     | Description                                                                 | Points |
-|------------------------------|-----------------------------------------------------------------------------|--------|
-| Correctness & Functionality | Does the assistant generate accurate and relevant responses?                 | 35     |
-| RAG Architecture           | Is the retrieval pipeline well-structured, efficient, and properly integrated? | 20     |
-| Prompt Design (MCP)        | Is the prompt construction clear, structured, and aligned with MCP principles? | 15     |
-| Code Quality & Modularity | Is the code clean, readable, modular, and maintainable and covered with unit tests?                      | 20     |
-| Documentation             | Is the `README.md` clear, with setup instructions and design explanation?    | 10     |
-|                             | **Total**                                                                   | **100** |
+| Component | Technology |
+|-----------|------------|
+| API | FastAPI |
+| Embeddings | Sentence Transformers (`all-MiniLM-L6-v2`) |
+| Vector Store | FAISS |
+| LLM | Ollama (`llama3.2:3b`) |
 
-## 🚀 Getting Started
-- Fork this repository (do not clone directly)
-- Work within your forked copy
-- Add your code in /src and include a clear README.md with setup instructions
-- Commit your changes regularly
-- Once complete, follow the submission instructions below
+### Data Flow
 
-## 📬 Submission Instructions
-- You have 1 week to complete the challenge.
-- We expect this to take around 1–2 focused days of work.
-- Once complete:
-  - Push your forked repo to GitHub
-  - Submit the repository link through the portal in the original email.
+1. **Request** → User submits a support ticket via `POST /resolve-ticket`
+2. **Embed** → Query is converted to a vector embedding
+3. **Retrieve** → FAISS finds the most similar document chunks
+4. **Generate** → Ollama LLM generates a response using retrieved context
+5. **Response** → MCP-compliant JSON returned to user
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.10+
+- [Ollama](https://ollama.ai/) installed
+
+### Installation
+
+**1. Clone the repository**
+```bash
+git clone https://github.com/mpat247/Knowledge-Assistant-for-Support-Team-Interview-Exercise.git
+cd Knowledge-Assistant-for-Support-Team-Interview-Exercise
+```
+
+**2. Create virtual environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # macOS/Linux
+# or: venv\Scripts\activate  # Windows
+```
+
+**3. Install dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+**4. Set up Ollama**
+```bash
+ollama serve          # Start Ollama (if not running)
+ollama pull llama3.2:3b  # Download the model
+```
+
+**5. Run the application**
+```bash
+python -m src.main
+```
+
+The API will be available at `http://localhost:8000`
+
+### Using Docker
+
+```bash
+docker-compose up --build
+```
+
+> **Note:** Ollama must be running on your host machine. The container connects via `host.docker.internal`.
+
+---
+
+## API Reference
+
+### POST /resolve-ticket
+
+Process a support ticket and get an AI-generated response.
+
+**Request:**
+```bash
+curl -X POST http://localhost:8000/resolve-ticket \
+  -H "Content-Type: application/json" \
+  -d '{"ticket_text": "How do I transfer my domain to another registrar?"}'
+```
+
+**Response:**
+```json
+{
+  "answer": "To transfer your domain...",
+  "references": ["Document: domain_transfers"],
+  "action_required": "initiate_transfer"
+}
+```
+
+### GET /
+
+Health check endpoint.
+
+```bash
+curl http://localhost:8000/
+```
+
+**Response:**
+```json
+{
+  "status": "healthy",
+  "ollama": "connected"
+}
+```
+
+### Interactive Docs
+
+- Swagger UI: http://localhost:8000/docs
+
+
+## Testing
+
+```bash
+pytest tests/ -v
+```
+
+---
+
+## Project Structure
+
+```
+├── src/
+│   ├── main.py          # FastAPI app entry point
+│   ├── config.py        # Configuration settings
+│   ├── api/
+│   │   ├── route.py     # API endpoints
+│   │   └── schemas.py   # Pydantic models
+│   ├── llm/
+│   │   └── llm.py       # Ollama client & prompts
+│   └── rag/
+│       └── rag.py       # RAG pipeline (embed, index, retrieve)
+├── data/
+│   ├── documents/       # Source .txt files
+│   └── vector_store/    # FAISS index (auto-generated)
+├── tests/               # Unit tests
+├── docker-compose.yml
+├── DockerFile
+└── requirements.txt
+```

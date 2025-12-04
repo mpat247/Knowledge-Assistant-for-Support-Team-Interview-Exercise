@@ -1,0 +1,35 @@
+# Tucows Domain Promise
+
+When you buy a domain name through a Tucows partner, you are buying more than just a domain name. You are buying a commitment to the fairest, most honest, most consumer-friendly principles and policies in the industry. Taking that commitment even a step further, we offer you this promise:
+
+## 40-Day No-Questions Asked, No-Exceptions Domain Name Rescue
+Didn't receive your domain name renewal emails? Don't worry. Couldn't renew your name by the expiry date because of some circumstance beyond your control? Don't worry. Just plain forgot to renew your domain name? Don't worry. You can get your domain back online. In many cases, depending on the domain extension and registry policies, even if it's been expired for more than a month, you just pay the regular renewal fee.
+
+## Minimal Fuss If You Want to Transfer Your Domain to Another Registrar
+If, for any reason, you're not happy with your provider or your provider is not happy with Tucows, you should each be able to move your domain name with minimal fuss. Tucows doesn't restrict your ability to transfer your domain name from one registrar to another. It's your domain name and we recognize your right to register it with the registrar of your choice.
+
+Tucows fully adheres to ICANN rules surrounding transfers (such as the 60-day lock after initial registration or renewal) but doesn't layer on things like additional transfer locks under the guise of protecting your security.
+
+## A Thoughtful, "Registrant-First" Approach to Dispute Resolution
+Tucows' approach to any domain name dispute begins with the firm belief that your domain name is your own. We also have a full-time, dedicated Compliance Team to make sure these matters get the attention they deserve. We will not allow your domain name to be used as leverage in a dispute. We will not readily "seize" your domain name under public pressure as other registrars have done.
+
+## Our Commitment as a Responsible Registrar
+
+### The Power of a Registrar
+Understand the complex DNS ecosystem—including the power and limitations of registrars and other industry players.
+More info: https://tucowsdomains.com/power-of-a-registrar/
+
+### A Well-Lit DNS
+Our call for the DNS community, ourselves included, to do their part to clean up the Internet.
+More info: https://tucowsdomains.com/well-lit-dns/
+
+### Report Abuse
+Understand the different types of DNS Abuse, how to file a report, and our commitment to compliance.
+More info: https://tucowsdomains.com/report-abuse/
+
+## Making the Internet Better
+Tucows actively participates in Internet governance and in shaping Internet policy to ensure that the focus remains on making the Internet better and more effective for all users.
+
+We advocate for a free, open, and healthy Internet. In our corner of the world, there is rampant DNS Abuse and, as advocates for a better Internet, we believe there is a fundamental need for the industry to come together to create a unified approach to handle it. Right now, some registrars, registries, and hosting providers take action on illegal activity, but others do not, and they become a breeding ground for it.
+
+We think that ought to change.
