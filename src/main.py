@@ -11,11 +11,8 @@ from src.rag.rag import retriever
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     """Load index on startup."""
-    print("Loading knowledge base index...")
     retriever.ensure_index_loaded()
-    print("Index loaded.")
     yield
-    print("Shutting down...")
 
 
 app = FastAPI(

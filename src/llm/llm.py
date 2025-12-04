@@ -8,7 +8,7 @@ from src.config import OLLAMA_BASE_URL, OLLAMA_MODEL
 from src.api.schemas import TicketResponse
 
 
-SYSTEM_PROMPT = """You are a customer support assistant for Tucows, a domain registrar.
+SYSTEM_PROMPT = """You are a customer support assistant for Tucowsr.
 Analyze tickets and respond based on the provided documentation.
 
 Always respond with JSON in this format:
