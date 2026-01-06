@@ -8,3 +8,4 @@ __pycache__/
 # data/vector_store
 
 .history
+.pytest_cache/
